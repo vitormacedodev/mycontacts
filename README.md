@@ -1,6 +1,21 @@
 # React + TypeScript + Vite
+Um projeto feito utilizando react, como base, para criar uma lista de contatos simples e convidativa!
+
+## Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+
+
 
 ## Deploy : https://mycontacts-seven.vercel.app/
+
+## Preview
+<img width="374" height="619" alt="image" src="https://github.com/user-attachments/assets/81c9bb6e-1047-4817-ad9b-30f326c86f1a" />
+<img width="374" height="619" alt="image" src="https://github.com/user-attachments/assets/3d4e5f79-ba45-49e7-892b-e530b35a87d1" />
+<img width="374" height="619" alt="image" src="https://github.com/user-attachments/assets/d53d9e0a-cfce-4d57-bef2-fe3d3c2cea5d" />
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
